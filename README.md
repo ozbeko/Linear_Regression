@@ -8,6 +8,6 @@ https://www.kaggle.com/jemishdonda/headbrain
 Dataset:
 https://www.kaggle.com/kumarajarshi/life-expectancy-who
 
-## 3. Study Time Regression
+## 3. Student Performance Regression
 Dataset:
 https://archive.ics.uci.edu/ml/datasets/Student+Performance
